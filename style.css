@@ -1,0 +1,29 @@
+body {
+    background-color:lightpink;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 20px;
+    padding: 20px;
+    font-size: 30px;
+ }
+ header {
+   background-color: hotpink;
+   color: floralwhite;
+   text-align: center;
+   padding: 15px;
+   border-radius: 15px;
+   font-size: 25px;
+ }
+ section {
+   background-color: lightyellow;
+   padding: 50px;
+   border-radius: 15px;
+   box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+   text-align:center;
+ }
+ a {
+   color:blue;
+   text-decoration: underline;
+ }
+ a:hover {
+   text-decoration: underline;
+ }
